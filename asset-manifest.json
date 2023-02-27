@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/booking-react-app/static/css/main.5b179528.css",
+    "main.js": "/booking-react-app/static/js/main.0e185fbd.js",
+    "static/media/3.jpg": "/booking-react-app/static/media/3.b590fbf23577e1034690.jpg",
+    "static/media/hotel.jpg": "/booking-react-app/static/media/hotel.11066d8e0c595300f39f.jpg",
+    "static/media/apartment.jpeg": "/booking-react-app/static/media/apartment.a6159d993bfe78fd096a.jpeg",
+    "static/media/4.jpeg": "/booking-react-app/static/media/4.1da410024091de4898a2.jpeg",
+    "static/media/1.jpg": "/booking-react-app/static/media/1.e0eb960e1adc064cee2f.jpg",
+    "static/media/2.jpg": "/booking-react-app/static/media/2.970693d74b4d0a1cf382.jpg",
+    "static/media/villa.jpg": "/booking-react-app/static/media/villa.6ab4d49ea1887b23f7b9.jpg",
+    "static/media/resort.jpeg": "/booking-react-app/static/media/resort.b9095c3565f561cf7c06.jpeg",
+    "static/media/cabin.jpg": "/booking-react-app/static/media/cabin.efe1eb194c1e4aa6ccf5.jpg",
+    "static/media/2.jpeg": "/booking-react-app/static/media/2.6a18a9a7e1d263e4ea65.jpeg",
+    "index.html": "/booking-react-app/index.html",
+    "main.5b179528.css.map": "/booking-react-app/static/css/main.5b179528.css.map",
+    "main.0e185fbd.js.map": "/booking-react-app/static/js/main.0e185fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b179528.css",
+    "static/js/main.0e185fbd.js"
+  ]
+}
