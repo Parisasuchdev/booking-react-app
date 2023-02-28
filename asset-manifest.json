@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/booking-react-app/static/css/main.5b179528.css",
-    "main.js": "/booking-react-app/static/js/main.db9b6d27.js",
+    "main.js": "/booking-react-app/static/js/main.0e185fbd.js",
     "static/media/3.jpg": "/booking-react-app/static/media/3.b590fbf23577e1034690.jpg",
     "static/media/hotel.jpg": "/booking-react-app/static/media/hotel.11066d8e0c595300f39f.jpg",
     "static/media/apartment.jpeg": "/booking-react-app/static/media/apartment.a6159d993bfe78fd096a.jpeg",
@@ -14,10 +14,10 @@
     "static/media/2.jpeg": "/booking-react-app/static/media/2.6a18a9a7e1d263e4ea65.jpeg",
     "index.html": "/booking-react-app/index.html",
     "main.5b179528.css.map": "/booking-react-app/static/css/main.5b179528.css.map",
-    "main.db9b6d27.js.map": "/booking-react-app/static/js/main.db9b6d27.js.map"
+    "main.0e185fbd.js.map": "/booking-react-app/static/js/main.0e185fbd.js.map"
   },
   "entrypoints": [
     "static/css/main.5b179528.css",
-    "static/js/main.db9b6d27.js"
+    "static/js/main.0e185fbd.js"
   ]
 }
